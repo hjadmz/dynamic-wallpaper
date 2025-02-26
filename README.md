@@ -154,10 +154,5 @@ Here’s the simplified folder structure for this project:
 
 ---
 
-## **Contributing**
-Feel free to fork this repository and submit a pull request if you’d like to improve or add features!
-
----
-
 ## **License**
 This project is licensed under the MIT License.
